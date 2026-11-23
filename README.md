@@ -1,3 +1,8 @@
+Hi! If you arrived here, you might be wondering "What is KOMBr?". Well, it is an attempt to follow up on the original KOMB macro by TmRxJD, to keep it maintained and to further evolve it. Your next question might be "Should I use it?" and the answer is no, definitelly not under current circumstances. While I would like to develop it, at this moment I am in a phase where it is more likely I will break it and I am certainly not adding anything up on top of the original work. This may or may not change in the future, so if you are interested, check the repo from time to time, but no promises. 
+
+Bellow is the original description from the original repo. 
+
+_________________________________________________
 # KOMB — Klipper Optimized Macro for Brushing
 
 A flexible nozzle-brushing macro for Klipper. It works with bed-mounted, gantry-mounted and
